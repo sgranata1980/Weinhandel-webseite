@@ -1,0 +1,6 @@
+<svg width="340" height="120" viewBox="0 0 340 120" xmlns="http://www.w3.org/2000/svg">
+  <line x1="14" y1="22" x2="326" y2="22" stroke="#C9A96E" stroke-width="2"/>
+  <line x1="14" y1="22" x2="14" y2="30" stroke="#C9A96E" stroke-width="2"/>
+  <line x1="326" y1="22" x2="326" y2="30" stroke="#C9A96E" stroke-width="2"/>
+  <text x="170" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="88" fill="#FBF9F4" letter-spacing="14">IPT</text>
+</svg>
